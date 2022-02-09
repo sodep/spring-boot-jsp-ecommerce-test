@@ -1,6 +1,6 @@
 # Ecommerce con JSP y Spring Boot
 
-Ejercicio de proyecto Spring Boot/JSP para la construcción de una página de calzados.
+Ejercicio de construcción de una página de calzados.
 
 ## Descripción de tarea
 
@@ -17,7 +17,7 @@ Se pueden modelar los calzados usando estructuras de datos de Java
 
 🍸 `Desafío bono`:  Se puede usar una base de datos para obtener la info de los calzados
 
-### Ejercicio 2 (opcionial)
+### Ejercicio 2 (opcional)
 
 Implementar un formulario en nueva página JSP para agrega un nuevo calzado. Ese calzado se debe guardar en Java.
 
