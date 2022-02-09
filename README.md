@@ -18,7 +18,7 @@ Se pueden modelar los calzados usando estructuras de datos de Java
 
 🍸 `Desafío bono`: Se puede usar una base de datos para obtener la info de los calzados
 
-### Ejercicio 2 (opcional)
+### Ejercicio 2
 
 Implementar un formulario en nueva página JSP para agrega un nuevo calzado. Ese calzado se debe guardar en Java.
 
